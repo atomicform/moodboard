@@ -1,0 +1,22 @@
+{
+  "name": "moodboard",
+  "version": "1.0.0",
+  "description": "moodboard prototype",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atomicform/moodboard.git"
+  },
+  "keywords": [
+    "nft"
+  ],
+  "author": "michelle and will",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atomicform/moodboard/issues"
+  },
+  "homepage": "https://github.com/atomicform/moodboard#readme"
+}
