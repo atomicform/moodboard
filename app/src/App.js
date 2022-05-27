@@ -14,6 +14,7 @@ import { activeConnector, useConnect } from 'wagmi';
 import { InjectedConnector } from 'wagmi/connectors/injected'
 
 import { Connect } from "./Connect";
+import { Cool } from "./Cool";
 
 const { chains, provider } = configureChains(
   [chain.mainnet],
@@ -45,10 +46,23 @@ export default function App() {
             right: 0,
             display: "flex",
             alignItems: "center",
-            justifyContent: "center"
+            justifyContent: "center",
+            flexDirection: "column"
           }}
         >
+          <Cool />
+          <Cool />
+          <Cool />
+          <Cool />
+          <Cool />
+          <Cool />
           <Connect />
+          <Cool />
+          <Cool />
+          <Cool />
+          <Cool />
+          <Cool />
+          <Cool />
         </div>
       </RainbowKitProvider>
     </WagmiConfig>
