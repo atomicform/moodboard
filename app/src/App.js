@@ -10,6 +10,9 @@ import { alchemyProvider } from "wagmi/providers/alchemy";
 import { jsonRpcProvider } from 'wagmi/providers/jsonRpc';
 import { publicProvider } from 'wagmi/providers/public';
 
+import { activeConnector, useConnect } from 'wagmi';
+import { InjectedConnector } from 'wagmi/connectors/injected'
+
 import { Connect } from "./Connect";
 
 const { chains, provider } = configureChains(
@@ -29,6 +32,7 @@ const wagmiClient = createClient({
 });
 
 export default function App() {
+
   return (
     <WagmiConfig client={wagmiClient}>
       <RainbowKitProvider chains={chains}>
