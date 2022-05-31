@@ -1,0 +1,63 @@
+{
+  "vibes": [
+    {
+      "vibeTitle": "first vibe",
+      "id": 1
+    },
+    {
+      "vibeTitle": "swiggity swooty",
+      "id": 2
+    },
+    {
+      "vibeTitle": "pew pew",
+      "id": 3
+    },
+    {
+      "vibeTitle": "henlo",
+      "id": 4
+    },
+    {
+      "vibeTitle": "swiggity",
+      "id": 5
+    },
+    {
+      "vibeTitle": "swiggity",
+      "id": 6
+    },
+    {
+      "vibeTitle": "asdf",
+      "id": 7
+    },
+    {
+      "vibeTitle": "happy",
+      "id": 8
+    },
+    {
+      "vibeTitle": "'tis witching season",
+      "id": 9
+    }
+  ],
+  "nfts": [
+    {
+      "nftTitle": "coven",
+      "image_url": "https://lh3.googleusercontent.com/nuRfpVi60njfv6ee3_HxEPS7NHebd9cxioW6C7-H8YUR74h0UWUP_lOiPDMIiTIO7eBSSnuu4xxuoCNxjOQTQ352efiTvQWOHMmt-Q=s128",
+      "id": 1
+    },
+    {
+      "nftTitle": "bubki",
+      "image_url": "https://lh3.googleusercontent.com/Wbht6x3y2i8OjKK6LZfKZ1yxusfOn3C-LL6_txD9TwRxAksxGTXmZiEjr5lqFGSuG7oPVaiDSFo1oBMxo6exCZnaFAiZtJgh_XqLRA=s128",
+      "id": 2
+    },
+    {
+      "nftTitle": "ramen",
+      "image_url": "https://lh3.googleusercontent.com/78FZVF6PneY5ShfhkHpFRVeBi-dTHqXkZsohcRxCfr41iAkhM517shBmJgb8AWXrprteoUhh_2MAIPHA6FOWs_QNO4XfbSD4bN-9Kg=s128",
+      "id": 3
+    }
+  ],
+  "addresses": [
+    {
+      "address": "0x2384o9",
+      "id": 1
+    }
+  ]
+}
